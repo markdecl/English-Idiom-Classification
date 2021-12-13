@@ -2,10 +2,10 @@
  
 I completed this project so I could apply the data science and NLP skills I'd learnt to my own dataset.
 
-## Demo
+## Demo:
 
-## Tools and technologies used
+## Tools and technologies used:
 
-## Challenges
+## Challenges:
 
-## Credits
+## Credits:
