@@ -16,7 +16,7 @@ Idioms contribute greatly to why natural languages are semantically ambiguous. T
 
 ## Challenges:
 * Preventing overfitting with the training dataset
-  * Because of the wide variety of types of idiomatic expressions, it was difficult to prevent the LSTM model overfitting to particular patterns founding the training set, eg. Part-of-speech sequences such as noun-preposition-noun
+  * Because of the wide variety of types of idiomatic expressions, it was difficult to prevent the LSTM model overfitting to particular patterns founding the training set, eg. part-of-speech sequences such as noun-preposition-noun
 
 ## Credits:
 * [_Idiom Token Classification using Sentential Distributed Semantics_](https://aclanthology.org/P16-1019.pdf)
